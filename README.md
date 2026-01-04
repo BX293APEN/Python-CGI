@@ -2,8 +2,7 @@
 
 ## インストール方法
 ```bash  
-cd module
-pip install .
+pip install libcgi
 ```
 
 ## インストール確認
@@ -40,3 +39,6 @@ import cgitb
 ```python
 import pycgitb
 ```
+
+## Reference
+> [libcgi](https://pypi.org/project/libcgi/)

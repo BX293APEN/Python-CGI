@@ -2,7 +2,7 @@
 
 ## インストール方法
 ```bash  
-pip install .
+pip install libcgi
 ```
 
 ## インストール確認
