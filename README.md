@@ -2,6 +2,7 @@
 
 ## インストール方法
 ```bash  
+cd module
 pip install .
 ```
 
