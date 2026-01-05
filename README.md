@@ -2,18 +2,7 @@
 
 ## インストール方法
 ```bash  
-pip install libcgi
-```
-
-## インストール確認
-- Windows  
-```bash
-pip list | findstr Python-CGI
-```
-
-- Linux  
-```bash
-pip list | grep Python-CGI
+pip install libcgipy
 ```
 
 ## 使い方
@@ -42,3 +31,4 @@ import pycgitb
 
 ## Reference
 > [libcgi](https://pypi.org/project/libcgi/)
+> [libcgipy](https://pypi.org/project/libcgipy/)

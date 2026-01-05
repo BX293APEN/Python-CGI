@@ -5,17 +5,6 @@
 pip install libcgipy
 ```
 
-## インストール確認
-- Windows  
-```bash
-pip list | findstr Python-CGI
-```
-
-- Linux  
-```bash
-pip list | grep Python-CGI
-```
-
 ## 使い方
 
 - 旧モジュール  
