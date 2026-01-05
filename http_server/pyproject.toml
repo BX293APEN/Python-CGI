@@ -3,17 +3,21 @@ requires        = ["setuptools"]
 build-backend   = "setuptools.build_meta"
 
 [project]
-name            = "libcgi"
-version         = "0.1.1"
-description     = "軽量CGIモジュール"
+name            = "libcgipy"
+version         = "0.1.2"
+description     = "簡易CGIサーバと軽量CGIモジュール"
 authors         = [
     { name      = "PEN" }
 ]
 readme          = "README.md"
 requires-python = ">=3.12"
 
+dependencies    = [ 
+    "libcgi>=0.1.1" 
+]
+
+
 [tool.setuptools]
 packages = [
-    "pycgi",
-    "pycgitb"
+    "httpcgi"
 ]

@@ -76,7 +76,7 @@ class RadioControlCar():
         <meta charset="UTF-8">
     </head>
     <body>
-        <form>
+        <form method="post" action="/cgi-bin/radicon.py">
             <br>
                 <input type="submit" value="前" name="direction" style="margin-left:50px"/>
             <br>
