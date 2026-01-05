@@ -4,7 +4,7 @@ build-backend   = "setuptools.build_meta"
 
 [project]
 name            = "libcgi"
-version         = "0.1.2.1"
+version         = "0.1.2.2"
 description     = "軽量CGIモジュール"
 authors         = [
     { name      = "PEN" }
@@ -17,3 +17,8 @@ packages = [
     "pycgi",
     "pycgitb"
 ]
+
+[project.urls]
+"Homepage"      = "https://github.com/BX293APEN/Python-CGI"
+"Source"        = "https://github.com/BX293APEN/Python-CGI/tree/main/module"
+"Issues"        = "https://github.com/BX293APEN/Python-CGI/issues"

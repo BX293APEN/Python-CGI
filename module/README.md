@@ -1,4 +1,4 @@
-# Python-CGI
+# libcgi
 
 ## インストール方法
 ```bash  
